@@ -25,4 +25,22 @@ public class Event {
     private Date date;
 
 
+    public void setTitle(String title) {
+    }
+
+    public void setDescription(String description) {
+    }
+
+    public void setEventUrl(String s) {
+    }
+
+    public void setDate(Date date) {
+    }
+
+    public void setImgUrl(String imgUrl) {
+    }
+
+    public void setRemote(Boolean remote) {
+
+    }
 }
